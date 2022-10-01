@@ -1,6 +1,7 @@
 {
   "name": "csatcloud1",
   "version": "1.0.0",
+  "description":"hellow world",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
